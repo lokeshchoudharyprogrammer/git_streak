@@ -1,0 +1,25 @@
+{
+  "name": "git_streak",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lokeshchoudharyprogrammer/git_streak.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lokeshchoudharyprogrammer/git_streak/issues"
+  },
+  "homepage": "https://github.com/lokeshchoudharyprogrammer/git_streak#readme",
+  "description": "",
+  "dependencies": {
+    "file": "^0.2.2",
+    "json": "^11.0.0",
+    "moment": "^2.30.1",
+    "simple-git": "^3.27.0"
+  }
+}
